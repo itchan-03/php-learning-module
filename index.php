@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="registration_form.css">
+    <title>Cute AKO</title>
 </head>
 <body>
 
