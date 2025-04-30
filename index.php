@@ -10,6 +10,7 @@
 <body>
 
     <div id="sheet">
+    <h1>Taytol</h1>
     <h2>Registration Form</h2>
 
         <form action="register.php" method="POST">
