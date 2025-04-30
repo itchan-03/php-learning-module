@@ -12,7 +12,7 @@
     <div id="sheet">
     <h1>Taytol</h1>
     <h2>Registration Form</h2>
-
+        <p>Kurt The Great</p>
         <form action="register.php" method="POST">
 
         <div id="basicbox">
