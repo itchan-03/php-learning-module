@@ -1,0 +1,71 @@
+h2{
+    text-align: center;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+}
+
+#sheet{
+    background-color: lightgrey;
+    height: auto;
+    width: auto;
+    border: 2px solid darkolivegreen;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px; 
+    margin: 5px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#basicbox, Fname, Mmane, Lname, radio{
+    display: inline;
+    
+}
+
+label{
+    margin: 50px;
+    font-weight: bold;
+    margin-left: 12px;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 5px;
+    margin: auto;
+    width: 320px;
+    height: 20px;
+    border: 1px solid lightslategray;
+    border-radius: 4px;
+    background-color: green;
+
+}
+
+::placeholder{
+    color: aliceblue;
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: auto;
+    margin: auto;
+    width: 200px;
+    height: 40px;
+    background-color:darkgreen;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+}
